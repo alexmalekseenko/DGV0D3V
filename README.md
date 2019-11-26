@@ -1,6 +1,8 @@
 # DGV0D3V 
 # 0D3V Solver for the Boltzmann equation
+
 Contributors: Alex Aleskeenko, Jeffrey Limbacher, Truong Nguyen, Craig Euler
+
 E-mail: alexander.alekseenko@csun.edu
 
 This is a copy of a Fortran code that implements solution of the spatially homogeous Boltzmann equation using nodal-Discontinuous 
